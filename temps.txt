@@ -1,0 +1,8 @@
+cd /vz/template/cache/
+
+wget http://download.openvz.org/template/precreated/ubuntu-11.04-x86.tar.gz
+wget http://citylan.dl.sourceforge.net/project/turnkeylinuxovz/2009.10/ubuntu-8.04.3-i386-turnkey-mediawiki-2009.10.tar.gz
+
+wget http://citylan.dl.sourceforge.net/project/turnkeylinuxovz/2009.10/ubuntu-8.04.3-i386-turnkey-wordpress-2009.10.tar.gz
+
+wget http://download.openvz.org/template/precreated/fedora-15-x86.tar.gz
