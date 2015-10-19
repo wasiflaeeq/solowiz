@@ -19,7 +19,7 @@ dos2unix -o install.sh
 ./install.sh
 
 
-Screebshots
+Screenshots
 ==========================================
 
 [![VM Page](http://i.imgur.com/K6FuHlS.png)](http://i.imgur.com/K6FuHlS.png "VM Page")
